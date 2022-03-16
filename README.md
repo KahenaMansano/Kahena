@@ -16,7 +16,7 @@ Developing the art of solving problems through the magic of code :mage:
 
 - Technology and software
 - Sustainability
-- Nutrition
+- Nutrition vegetarian
 - Nature
 
 <div style="display: inline_block" align="center">
