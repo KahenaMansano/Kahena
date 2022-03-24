@@ -34,19 +34,6 @@ Developing the art of solving problems through the magic of code :mage:
   <img align="center" alt="SQL" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 </div><br>
 
-<!--START_SECTION:waka-->
-
-```text
-TypeScript                   ████████▓░░░░░░░░░░░░░░░░   34.81 %
-CSS                          ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-JavaScript                   ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
-Markdown                     ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-JSON                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
-<!>
-
 <div style="display: inline_block" align="center">
  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipeWanderson)](https://github.com/KahenaMansano)
