@@ -34,6 +34,9 @@ Developing the art of solving problems through the magic of code :mage:
   <img align="center" alt="SQL" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 </div><br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div style="display: inline_block" align="center">
  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipeWanderson)](https://github.com/KahenaMansano)
