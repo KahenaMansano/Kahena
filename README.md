@@ -37,6 +37,10 @@ Developing the art of solving problems through the magic of code :mage:
 <!--START_SECTION:waka-->
 
 ```text
+From: 16 March 2022 - To: 23 March 2022
+
+Total Time: 12 hrs 32 mins
+
 CSS          4 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.30 %
 TypeScript   3 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 %
 JavaScript   3 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   27.84 %
