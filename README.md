@@ -45,7 +45,7 @@ JSON                         ▓░░░░░░░░░░░░░░░░
 Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
-<!--END_SECTION:waka-->
+<!>
 
 <div style="display: inline_block" align="center">
  
