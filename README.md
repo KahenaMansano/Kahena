@@ -37,14 +37,14 @@ Developing the art of solving problems through the magic of code :mage:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2022 - To: 23 March 2022
+From: 23 March 2021 - To: 23 March 2022
 
-CSS          4 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.30 %
-TypeScript   3 hrs 31 mins   ███████░░░░░░░░░░░░░░░░░░   28.16 %
-JavaScript   3 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   27.84 %
-Markdown     1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript   4 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   34.81 %
+CSS          4 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   28.67 %
+JavaScript   3 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+Markdown     1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
+JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
