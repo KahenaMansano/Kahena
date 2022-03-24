@@ -14,5 +14,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          TIME_RANGE: last_300_days
+          TIME_RANGE: last_90_days
           SHOW_TIME: true
