@@ -25,6 +25,16 @@ Developing the art of solving problems through the magic of code :mage:
 </div>
 	
 <!--START_SECTION:waka-->
+
+```text
+JavaScript                   ██████████████░░░░░░░░░░░   56.01 %
+CSS                          █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
+TypeScript                   ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Markdown                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JSON                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+HTML                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+```
+
 <!--END_SECTION:waka-->
 
   <div style="display: inline_block" align="center"><br>
