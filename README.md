@@ -21,8 +21,6 @@ Developing the art of solving problems through the magic of code :mage:
 
 <div style="display: inline_block" align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KahenaMansano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KahenaMansano&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 	
 <!--START_SECTION:waka-->
 
@@ -36,6 +34,7 @@ HTML                         ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</div>
 
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
