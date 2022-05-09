@@ -48,9 +48,9 @@ Developing the art of solving problems through the magic of code :mage:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                   █████████▓░░░░░░░░░░░░░░░   38.09 %
-TypeScript                   ███████▒░░░░░░░░░░░░░░░░░   29.65 %
-CSS                          ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+JavaScript                   █████████▓░░░░░░░░░░░░░░░   38.04 %
+TypeScript                   ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+CSS                          ██████░░░░░░░░░░░░░░░░░░░   23.71 %
 Markdown                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 JSON                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 HTML                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
